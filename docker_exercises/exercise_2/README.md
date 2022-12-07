@@ -1,6 +1,6 @@
 # Data Minded Academy - Containerization with Docker
 ## Exercise 2 - Interact with containers
-# Change here
+# Changed here
 Now that we’ve warmed up it’s time to get inside a container while it’s running! In this exercise, 
 you will have to use the `docker` CLI to interact with running containers.
 
